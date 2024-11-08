@@ -1,0 +1,6 @@
+Thinking in React
+Component Hierarchy
+- Taking from the UI mockup and the components
+- Top down approach; root, parent, child
+- Static protoype of the UI
+
